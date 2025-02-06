@@ -61,10 +61,6 @@
           <version>2.22.1</version>
         </plugin>
         <plugin>
-          <artifactId>maven-site-plugin</artifactId>
-          <version>3.7.1</version>
-        </plugin>
-        <plugin>
           <groupId>org.pitest</groupId>
           <artifactId>pitest-maven</artifactId>
           <version>1.4.10</version>
